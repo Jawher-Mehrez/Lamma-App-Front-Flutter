@@ -1,0 +1,33 @@
+# IntelliJ / Android Studio
+.idea
+*.iml
+*.iws
+*.iws
+
+# VSCode
+.vscode
+
+# Flutter/Dart
+**/build/
+**/ios/Flutter/**.generated.xcconfig
+**/ios/Flutter/**.podspec
+**/ios/Flutter/**.syms
+**/ios/Flutter/**.g.dart
+**/ios/Flutter/Generated.xcconfig
+.dart_tool/
+.pub/
+/build/
+/captures/
+/generated/
+
+# Android
+**/android/**/gradle-wrapper.jar
+**/android/**/.gradle
+**/android/captures/
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Genera
