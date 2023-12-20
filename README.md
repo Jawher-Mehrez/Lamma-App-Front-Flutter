@@ -7,9 +7,7 @@ Notre application vise à améliorer l'expérience globale du jeu.
 
 ## Technologies Utilisées :
 
-### Frontend :
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
+### - [Flutter](https://flutter.dev/)
+### - [Dart](https://dart.dev/)
 
-### Backend :
-- [Laravel](https://laravel.com/)
+
